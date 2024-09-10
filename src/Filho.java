@@ -12,6 +12,6 @@ public class Filho extends Pessoa  {
 
     @Override
     String getTipoVoz() {
-        return "Fina";
+        return "Fina1";
     }
 }
